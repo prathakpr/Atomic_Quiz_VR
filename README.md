@@ -17,7 +17,13 @@ It will Need :
 Oculus quest 2 VR device to Run the game perfectly however other VR will also work but their
 controllers can't.
 
-It has Authentication Feature : ![Screenshot 2023-03-21 073444](https://github.com/prathakpr/Atomic_Quiz_VR/blob/main/Firebase.png)
+ScreenShot of the game :
+
+<img align="left" alt="Coding" width="1000" src="https://github.com/prathakpr/Atomic_Quiz_VR/blob/main/SS%20of%20game.jpeg">
+
+It has Authentication Feature :
+
+![Screenshot 2023-03-21 073444](https://github.com/prathakpr/Atomic_Quiz_VR/blob/main/Firebase.png)
                                 SAME PASSWORD for all : 123456789
 
 Game has
