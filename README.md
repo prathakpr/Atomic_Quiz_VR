@@ -1,10 +1,9 @@
 # VRVFX
 
 Developed with Unreal Engine 5
-# gg
+# Atomic Quiz VR
 This project is built in Unreal Engine version 5.0, you can fetch the code into unreal engine 5.0 to get the project
 our file was more than 100mb, usaully unreal engine files not comes in github. but we tried our best to do so.
-[Presentation.pdf](https://github.com/handakungf/gg/files/11025213/Presentation.pdf)
 
 From Team Anjaniputra
 Problem Statement : Develop an Virtual Reality platform that enhances personalized learning experience for
@@ -18,7 +17,7 @@ It will Need :
 Oculus quest 2 VR device to Run the game perfectly however other VR will also work but their
 controllers can't.
 
-It has Authentication Feature : ![Screenshot 2023-03-21 073444](https://user-images.githubusercontent.com/98886868/226525875-7cfb3758-cda1-44b5-9ca7-d1f4d8b1a825.png)
+It has Authentication Feature : ![Screenshot 2023-03-21 073444](https://github.com/prathakpr/Atomic_Quiz_VR/blob/main/Firebase.png)
                                 SAME PASSWORD for all : 123456789
 
 Game has
